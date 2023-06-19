@@ -1,0 +1,45 @@
+margin:etiketlerin etrafında boşluk oluşturmak için kullanılır.
+
+Padding özelliği, elementin içeriği ile kenarlığı arasındaki dolgu genişliğini belirler
+
+gradient ile arka planda renk geçişi yapılır.
+
+height: 100vh; görünür alanın tamamını kullansın.
+
+nesne dizlişini alt alta yapmak için;
+ display: flex;
+ flex-direction: column;
+
+hizalamak için;
+ justify-content: center;
+    align-items: center;
+
+container: kapsayıcı alan
+min-height ile arama kısmında çıkanların listeleneceği alanın ucu açık olmuş oluyor.
+
+border-radius:kenar yuvarlama
+
+box-shadow: gölgeleme
+
+api dediğimiz şey bize hazır veri ve hizmet sunan yapılar.
+json api diye aratabiliriz.
+
+json:projelerin internet üzerinden etkileşim kurmasına yardımcı olan dil.JSON, iki sistem arasındaki 
+ağ bağlantısı üzerinden serileştirilmiş verilerin iletimine olanak tanır.
+
+sort listelemek demek.
+
+Javascript RegExp, Düzenli ifadeler anlamına gelen regular expression ile arama yapabilir, 
+metin değişikliği yapabilir, kullanıcının girdiği verilerin doğruluğu ile ilgili kontroller yapılabilir. 
+
+console log ile kontrol sağlanır.
+
+Div, html sayfasında bir bölüm oluşturmak istediğimizde kullanılır.
+
+<script> etiketi istemci tarafında çalıştırılacak bir script tanımlar. JavaScript gibi
+
+<ul> etiketi sırasız bir liste(madde işaretli) tanımlar. 
+Liste öğeleri oluşturmak için <li> etiketi kullanılır.
+
+
+

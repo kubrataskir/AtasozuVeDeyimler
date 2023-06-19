@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atasözü ve Deyimler</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <ul id="sonuc"></ul>
+    <!--Burada sonuçlar için liste elemanları görüntülenecektir.-->
+    <div id="container"><!--Derli toplu durması için container oluşturuyoruz.-->
+        <h3 class="baslik">Atasözü ve Deyim Arama</h3>
+        <!--Ne yapacağımız hakkında fikir vermek için başlık oluşturduk.-->
+        <!--Başlık kısmında class yerine id de kullanabilirdik. O şekilde de ulaşabilirdik.-->
+        <label for="aramaKutusu">Arama için ipucu giriniz:</label>
+        <!--arama kutusunun açıklayıcı olması için label ekledik.-->
+        <input list="aramaListesi" id="aramaKutusu"><!--list tipinde bir geri dönüş sağlayacağında araylisti de list şeklinde oluşturduk.-->
+<!--input içini bir listeden dolduracak. Bu listede datalist oluşturarak elde ediliyor.-->
+<datalist id="aramaListesi">
+    <!--Burada arama için ipucu başlıkları listelenecek.-->
+    
+</datalist>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
